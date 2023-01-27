@@ -21,4 +21,4 @@ elif operator == "%":
     print(first_number % second_number)
 
 else:
-    print("invalid numbers")
+    print("invalid Operators")
